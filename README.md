@@ -69,3 +69,6 @@ Offline → SQLite → Network restored → AWS S3 → ACK → Purge
 
 ## 👤 Author
 **Shrey Mittal** — NHAI Hackathon 7.0
+
+## 🔗 Source Code
+GitHub: https://github.com/Shrey-Mittal518/FaceGuardOffline
