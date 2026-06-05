@@ -61,5 +61,11 @@ npx react-native run-android
 Offline → SQLite → Network restored → AWS S3 → ACK → Purge
 ```
 
+📹 Demo Videos
+🎥 Camera Demo → https://youtu.be/cWZPekBTW1s
+
+🏗️ Architecture Walkthrough → https://youtube.com/shorts/pz0eE0D39tU?feature=share
+
+
 ## 👤 Author
 **Shrey Mittal** — NHAI Hackathon 7.0
